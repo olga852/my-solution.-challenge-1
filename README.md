@@ -25,7 +25,11 @@
 
 ### Скриншот
 
+![desktop-preview](https://user-images.githubusercontent.com/90684029/136705244-a39b7507-5590-4ef7-9aa5-1258f2ce6a93.jpg)
+Десктопная версия
 
+![mobile-design](https://user-images.githubusercontent.com/90684029/136705289-5087ce9b-7e00-409b-8293-eff2ba3d22a0.jpg)
+Мобильная
 
 ### Ссылки
 
